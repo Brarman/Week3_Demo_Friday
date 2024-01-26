@@ -11,8 +11,7 @@ package week3_demo;
 public class Week3_Demo {
 
     /**
-     * hii
-     * @param args the command line arguments
+     * hi     * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
