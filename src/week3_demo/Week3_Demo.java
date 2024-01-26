@@ -7,7 +7,7 @@ package week3_demo;
 /**
  *
  * @author arman
- Armandeep Brar
+ Armandeep Singh Brar
  */
 public class Week3_Demo {
 
